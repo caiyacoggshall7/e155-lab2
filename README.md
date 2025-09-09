@@ -1,0 +1,1 @@
+This is the files for LAB 2 Time multiplexing Dual Seven Segment Display. All code should be commented and additional explanation can be found on my Quarto website# e155-lab2
