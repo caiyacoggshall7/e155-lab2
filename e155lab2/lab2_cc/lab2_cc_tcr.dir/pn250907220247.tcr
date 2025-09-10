@@ -1,0 +1,47 @@
+#Start recording tcl command: 9/7/2025 13:07:54
+#Project Location: C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc; Project name: lab2_cc
+prj_open "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/lab2_cc.rdf"
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/lab2_cc_testbench.sv"
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc_testbench.vm"
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/lab2_cc_testbench.sv"
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/8inputdipswitch.pdc"
+prj_enable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/8inputdipswitch.pdc"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1.xcf"
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1_1.xcf"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_save 
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1_2.xcf"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_save 
+prj_save 
+#Stop recording: 9/7/2025 22:02:47

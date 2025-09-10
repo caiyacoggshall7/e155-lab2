@@ -1,0 +1,32 @@
+----------------------------------------------------------------------
+Report for cell lab2_cc.TECH
+Register bits:  22 of 5280 (0.417%)
+I/O cells:      23
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               CCU2        10          100.0
+                            FD1P3XZ        22          100.0
+                              HSOSC         1          100.0
+                                 IB         9          100.0
+                               LUT4        20          100.0
+                                 OB        14          100.0
+SUB MODULES
+                          multiplex         1
+                  seven_seg_display         1
+                              TOTAL        78
+----------------------------------------------------------------------
+Report for cell seven_seg_display.v1
+Instance Path : ssd
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                               LUT4         7           35.0
+                              TOTAL         7
+----------------------------------------------------------------------
+Report for cell multiplex.v1
+Instance Path : mp
+                                  Cell usage:
+                               cell     count   Res Usage(%)
+                                FA2        10          100.0
+                            FD1P3XZ        22          100.0
+                               LUT4         6           30.0
+                              TOTAL        38

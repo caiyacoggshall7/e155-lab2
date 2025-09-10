@@ -1,0 +1,88 @@
+#Start recording tcl command: 9/8/2025 13:29:18
+#Project Location: C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc; Project name: lab2_cc
+prj_open "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/lab2_cc.rdf"
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_enable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_enable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_set_strategy_value -strategy Strategy1 lse_loop_limit=7000
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_set_strategy_value -strategy Strategy1 lse_loop_limit=10000
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_set_strategy_value -strategy Strategy1 lse_loop_limit=1950
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1/multi_sim1.spf"
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1/multi_sim1.spf"
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1_1/multi_sim1_1.spf"
+prj_run Export -impl impl_1
+prj_enable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv"
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_remove_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1_1/multi_sim1_1.spf"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+#Stop recording: 9/9/2025 02:03:20

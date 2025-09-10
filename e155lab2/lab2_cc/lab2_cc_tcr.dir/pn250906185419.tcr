@@ -1,0 +1,20 @@
+#Start recording tcl command: 9/6/2025 13:21:35
+#Project Location: C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc; Project name: lab2_cc
+prj_open "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/lab2_cc.rdf"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc_testbench.vm"
+prj_disable_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc_testbench.vm"
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv"
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run PAR -impl impl_1
+prj_run Export -impl impl_1
+prj_run Export -impl impl_1
+#Stop recording: 9/6/2025 18:54:19

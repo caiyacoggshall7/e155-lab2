@@ -1,0 +1,269 @@
+m255
+K4
+z2
+Z0 !s12c _opt2
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+Z2 !s12c _opt1
+R1
+R0
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+R2
+R1
+Z3 !s12c _opt
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+R3
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 dC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc
+T_opt
+!s110 1757391848
+VdGU8idI;cLC2NY2fXYhVV1
+Z5 04 17 4 work lab2_cc_testbench fast 0
+Z6 04 15 4 work multi_testbench fast 0
+04 19 4 work seven_seg_testbench fast 0
+=7-00be43eaea9b-68bfabe8-15e-2d2c
+R1
+!s12f OEM25U7 
+Z7 !s12b OEM100
+Z8 !s124 OEM100
+Z9 !s135 nogc
+Z10 o-quiet -auto_acc_if_foreign -work work -L iCE40UP -Lf iCE40UP +acc
+Z11 tCvgOpt 0
+n@_opt
+Z12 OL;O;2024.2;79
+R4
+T_opt1
+!s110 1757397133
+V8`WOa0EmG_Eoo5RfAon]n0
+R5
+=2-00be43eaea9b-68bfc08d-270-5838
+R1
+!s12f OEM25U4 
+R7
+R8
+R9
+R10
+R11
+n@_opt1
+R12
+R4
+T_opt2
+!s110 1757407945
+VkK]c4k6gL3N_SbNTP8Ugn3
+R6
+=7-00be43eaea9b-68bfeac9-d2-55c4
+R1
+!s12f OEM25U2 
+R7
+R8
+R9
+R10
+R11
+n@_opt2
+R12
+vlab2_cc
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv
+Z13 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z14 !s110 1757407939
+!i10b 1
+!s100 3DVgO:<TYmeajNo[zCc;h1
+I<PM9BI:=V5T?<]Z]:@`[d3
+S1
+R4
+w1757394683
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv
+!i122 290
+L0 8 25
+Z15 VDg1SIo80bB@j0V0VzS_@n1
+Z16 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z17 !s108 1757407939.000000
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv|
+!i113 0
+Z18 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R11
+vlab2_cc_testbench
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv
+R13
+R14
+!i10b 1
+!s100 5PX_SLL1JG]R=_VNaa7]k3
+IRSWYJfo;DAO6_1z?_<mT?2
+S1
+R4
+w1757397091
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv
+!i122 291
+L0 8 35
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_testbench.sv|
+!i113 0
+R18
+R11
+vmulti_testbench
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv
+R13
+Z19 !s110 1757407940
+!i10b 1
+!s100 CZ9E5kTYU1^DZh`0kfZ2U3
+IzDn3gH?jnVlV7LaT=UOk_2
+S1
+R4
+w1757407896
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv
+!i122 292
+L0 8 93
+R15
+R16
+r1
+!s85 0
+31
+R17
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multi_testbench.sv|
+!i113 0
+R18
+R11
+vmultiplex
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv
+R13
+R19
+!i10b 1
+!s100 HF;R7hnEZ[N<S[75Y=YYA0
+IBdh3mSZkZCNEA^]]D`?B12
+S1
+R4
+w1757407894
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv
+!i122 293
+L0 8 30
+R15
+R16
+r1
+!s85 0
+31
+Z20 !s108 1757407940.000000
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/multiplex.sv|
+!i113 0
+R18
+R11
+vseven_seg_display
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv
+R13
+R19
+!i10b 1
+!s100 hcln:ja^A;Jf[bM>ae@4S3
+IL[38KIMiRL846__kL>iAD3
+S1
+R4
+w1757307658
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv
+!i122 294
+L0 7 32
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv|
+!i113 0
+R18
+R11
+vseven_seg_testbench
+2C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv
+R13
+R19
+!i10b 1
+!s100 IAAl9_L5@SF^??n:ZGUPB0
+IWHWRK>PRHM^]VOS<7GRl:1
+S1
+R4
+w1757390398
+8C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv
+FC:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv
+!i122 295
+L0 8 83
+R15
+R16
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_testbench.sv|
+!i113 0
+R18
+R11

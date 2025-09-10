@@ -1,0 +1,6 @@
+- Entry: 1
+  Time: Mon Sep  8 16:46:37 2025
+  Command: C:\lscc\radiant\2024.2\questasim\win64\qrun.exe -reportprogress 300 -guimode -clean -f C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1_1/multi_sim1_1.f 
+- Entry: 2
+  Time: Mon Sep  8 19:13:31 2025
+  Command: C:\lscc\radiant\2024.2\questasim\win64\qrun.exe -reportprogress 300 -guimode -f C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/multi_sim1_1/multi_sim1_1.f 

@@ -1,0 +1,7 @@
+#Start recording tcl command: 9/6/2025 10:02:50
+#Project Location: C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc; Project name: lab2_cc
+prj_create -name "lab2_cc" -impl "impl_1" -dev iCE40UP5K-SG48I -performance "High-Performance_1.2V" -synthesis "lse"
+prj_save 
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/lab2_cc.sv"
+prj_add_source "C:/Users/ccoggshall/Desktop/e155lab2/lab2_cc/source/impl_1/seven_seg_display.sv"
+#Stop recording: 9/6/2025 11:05:52
